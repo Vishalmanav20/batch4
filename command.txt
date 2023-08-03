@@ -1,0 +1,11 @@
+some command which is use in GIT
+
+git init
+git config --global user.name "name"
+git config --global user.email "mail id"
+git status
+git add
+git commit
+git log 
+git log --online
+
